@@ -5,5 +5,8 @@ node_modules/
 .vscode/
 .idea/
 
+# Build artifacts
+dist/
+
 # macOS
 .DS_Store
